@@ -1,0 +1,202 @@
+.orpost {
+	width: 50%;
+	margin: auto;
+	position:relative;
+	text-align:center;
+}
+
+.createjob,
+.signin, 
+.jobdetail	{
+	margin-left:425px;
+}
+li.navbartext {
+	font-family: Tahoma;
+	color: #0000ee;
+	text-decoration: none;
+}
+
+.jobdetail {
+	width: 600px;
+	height:300px;
+	font-family: Tahoma;
+	font-size:10px;
+	margin-left:225px;
+	margin-top: 50px;
+	position:relative;
+	overflow: scroll;
+
+}
+.jobtitle {
+	font-family: Tahoma;
+	color: #0000ee;
+
+}
+.description {
+	font-family: Tahoma;
+	font-size:10px;
+	
+}
+.time {
+	font-family: Tahoma;
+	color: #0000ee;
+	font-size:10px;
+}
+
+.jobslist {
+	width: 600px;
+	height:300px;
+	font-family: Tahoma;
+	font-size:10px;
+	margin-left:225px;
+	margin-top: -550px;
+	position:absolute;
+	overflow: scroll;
+}
+
+#navbartext {
+	font-family: Tahoma;
+	color: #0000ee;
+	text-decoration: none;
+
+}
+
+.formdiv {
+	width:575px;
+	height:300px;
+	display:flex;
+	flex-direction:row;
+	justify-content: space-between;
+
+}
+
+#to {
+	font-family: Tahoma;
+	color: grey;
+	width: 117px;
+}
+
+label {
+	font-family: Tahoma;
+	color: grey;
+
+}
+#from  {
+	width: 117px;
+}
+
+.navbar {
+
+	font-family: Tahoma;
+	text-decoration: none;
+}
+
+
+.filteredresults {
+	
+	font-family: Tahoma;
+}
+
+
+
+input {
+	width: 270px;
+	height: 25px;
+	margin-bottom:10px;
+}
+
+#description {
+	height: 125px;
+}
+
+#header {
+	text-align: left;
+	font-family: Tahoma;
+	color: grey;
+
+}
+
+div.createjob {
+	width:275px;
+	height:300px;
+}
+
+.search {
+	margin-left: 200px;
+}
+
+.jobboard {
+	width: 1000px;
+	height: 700px;
+	border: 1px solid grey;
+
+}
+
+h1 {
+	text-align: center;
+	color: #0000ee;
+	font-family: Tahoma;
+		
+}
+h3 {
+	margin-left: 15px;
+	font-family: Tahoma;
+
+}
+
+.filteredresults {
+	border-right: 1px solid grey;
+	width:175px;
+	height: 625px;
+	font-size: 10px;
+	margin-top: -85px;
+	padding-top:  20px;
+}
+
+button {
+	background-color: #ff3030;
+	color:white;
+	
+}
+
+ul {
+	list-style: none;
+}
+
+
+.navbar {
+/*	background-color: #6495ed;*/
+	width: 1000px;
+	border-bottom: 1px solid grey;
+
+
+}
+li.navbartext  {
+	display: inline;
+	text-decoration:none;
+}
+#signin {
+	position: absolute;
+	margin-left:600px;
+}
+#employers {
+	margin-left: 75px;
+	
+}
+
+.searchtext {
+	width: 500px;
+}
+#what {
+	display: inline;
+	color:grey;
+	font-size: 9px;
+
+}
+#where {
+	display: inline;
+	margin-left: 185px;
+	color:grey;
+	font-size: 9px;
+
+}
